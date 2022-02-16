@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+    color: #302f2f;
+  font-family: 'Roboto', sans-serif;
+} 
+
+.form-title{
+    text-align: center; 
+    padding: 30px;
+}
+.pform{
+    background-color: #f7fcfc;
+    padding: 15px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    border: solid thin #eeeeee;
+    border-radius: 1%;
+}
+
+.pbox{
+    margin-top: 40px;
+}
+.fbox{
+    margin-top: 20px;
+}
+.fbox-btn{
+    margin-top: 40px;
+}
+.credit-card{
+    margin-right: 10px;
+}
+
+
+.header{font-weight: bolder;}
+
+.planbox-header{ 
+    height: 28px;
+    color: #ffffff; 
+    background-color: #90b7f5; 
+    width: 50%; 
+    text-align: center; 
+    border-radius: 2%;}
+.planbox1{ 
+    float: left; 
+    border: solid thin #90b7f5; 
+    width: 50%; 
+    background-color: #d7e4f7; 
+    padding: 15px; 
+    text-align: center; }
+.planbox2{ 
+    float: left; 
+    width: 50%; 
+    padding: 15px; 
+    text-align: center; 
+    color: #b0b4b8; 
+    background-color: #ffffff; 
+    border: solid thin #c3c6c9; 
+}
+ul {
+    list-style: none;
+}
+  
+ul li:before {
+    content: '✓';
+    color: #3a7acf;
+    font-weight: bolder;
+    margin-right:10px;
+}
+li{
+    margin-top: 10px;
+}
+a {
+    text-decoration: none !important;
+  }
